@@ -22,7 +22,7 @@ This website is for Aurora Hands of Hope (AHOH), a non‑profit organisation bas
 - W3Schools, 2026. *CSS Responsive Web Design*. Available at: https://www.w3schools.com/css/css_rwd_intro.asp [Accessed 29 May 2026].
 
 ### Images
-- AHOH logo created by Olebogeng Modipane. Original work.
+
 - Hero placeholder image from Unsplash (free for commercial use). Source: Unsplash, 2026. *Community support*. Available at: https://unsplash.com/ [Accessed 29 May 2026].
 
 ### Code Inspiration
