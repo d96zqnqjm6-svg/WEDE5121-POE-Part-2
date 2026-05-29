@@ -1,0 +1,55 @@
+Aurora Hands of Hope – Website Project (Part 2)
+
+Project Overview
+This website is for Aurora Hands of Hope (AHOH), a non‑profit organisation based in Durban, South Africa. The site provides information about AHOH’s programmes, allows users to volunteer or sponsor, and includes a contact form.
+
+Technologies Used
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (mobile menu toggle)
+- Google Fonts
+
+Changelog
+[See Changelog section above]
+
+References
+
+Websites
+- Google Fonts, 2026. *Montserrat + Open Sans*. Available at: https://fonts.google.com/ [Accessed 29 May 2026].
+- Mozilla Developer Network, 2026a. *CSS media queries*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries [Accessed 29 May 2026].
+- Mozilla Developer Network, 2026b. *CSS Grid Layout*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout [Accessed 29 May 2026].
+- Mozilla Developer Network, 2026c. *Pseudo-classes*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes [Accessed 29 May 2026].
+- W3Schools, 2026. *CSS Responsive Web Design*. Available at: https://www.w3schools.com/css/css_rwd_intro.asp [Accessed 29 May 2026].
+
+Images
+
+- Hero placeholder image from Unsplash (free for commercial use). Source: Unsplash, 2026. *Community support*. Available at: https://unsplash.com/ [Accessed 29 May 2026].
+
+Code Inspiration
+- CSS reset pattern based on Meyer Web (public domain). Adapted with `box-sizing: border-box`.
+- Mobile hamburger menu adapted from MDN Web Docs examples.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   PROPOSALS/Olebogeng Modipane ST10482163 WEDE5121 PROP 1.docx
+#	new file:   WEBSITE/IMAGES/logo.jpeg
+#	new file:   WEBSITE/Style.css
+#	new file:   WEBSITE/WEDE5121-POE-Part-1.htm
+#	new file:   WEBSITE/about.html
+#	new file:   WEBSITE/contact.html
+#	new file:   WEBSITE/enquiry.html
+#	new file:   WEBSITE/index.html
+#	new file:   WEBSITE/services.html
+#	new file:   WEDE5121 POE Part 1/PROPOSALS/Olebogeng Modipane ST10482163 WEDE5121 PROP 1.docx
+#	new file:   WEDE5121 POE Part 1/WEBSITE/IMAGES/logo.jpeg
+#	new file:   WEDE5121 POE Part 1/WEBSITE/about.html
+#	new file:   WEDE5121 POE Part 1/WEBSITE/contact.html
+#	new file:   WEDE5121 POE Part 1/WEBSITE/enquiry.html
+#	new file:   WEDE5121 POE Part 1/WEBSITE/index.html
+#	new file:   WEDE5121 POE Part 1/WEBSITE/services.html
+#
